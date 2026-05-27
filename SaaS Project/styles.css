@@ -1,0 +1,183 @@
+body {
+    background-color: #e7e8ec;
+}
+
+#header {
+    
+    background-color: 	#e7e8ec;
+    border-radius: 5;
+    flex-wrap: wrap;
+    
+    
+    
+    border-bottom: 1px solid border;
+    padding: 0 32px;
+    height: 64px;
+    position: sticky top 0px;
+    font-size: 18px 700;
+    
+}
+
+
+
+#botn {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: 	#e7e8ec;
+    margin-bottom: 500px;
+
+}
+
+.hom {
+    margin: auto;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    padding: 8px 20px 8px 20px;
+}
+.Abo {
+    margin: auto;
+    
+    padding: 8px 20px 8px 20px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.wrk {
+    margin: auto;
+    padding: 8px 20px 8px 20px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    
+}
+.ctn {
+    margin: auto;
+    padding: 8px 20px 8px 20px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    
+}
+
+.btn {
+    color: black;
+    background-color: white;
+    outline: none;
+    border: none;
+
+}
+
+#webpage {
+    margin-top: 50px;
+    background-color: #adadad;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 30px;
+    margin-left: 20px;
+}
+
+#parent {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin: 20px;
+}
+img {
+    margin-top: 20px;
+    margin-left: 00px;
+
+}
+
+
+#btn-primary {
+    
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+
+    background: var(--accent);
+    color: white;
+    padding: 5px;
+        
+    font-weight: 600;
+    transition: opacity 0.2s;
+        
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 5px, 5px, 5px, 5px;
+    background-color: black;
+    
+        
+         
+}
+
+#btn-primary:hover { opacity: 0.88; }
+
+#btn-secondary {
+    
+    font-weight: 600;
+    padding: 5px ;
+    border-radius: 50px;
+    margin: 5px, 5px, 5px, 5px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#benefits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    background: #b3b3b3;
+    padding: 40px 50px;
+    border-radius: 30px;
+    margin: 20px;
+    
+}
+
+
+#Feature-1 {
+    padding: 20px 50px;
+    border-radius: 20px;
+    
+    background-color: white;
+}
+
+#Feature-2 {
+    padding: 20px 50px;
+    border-radius: 20px;
+    
+    background-color: white;
+}
+
+#Feature-3 {
+    padding: 20px 50px;
+    border-radius: 20px;
+    
+    background-color: white;
+}
+
+#F-cta {
+    margin: 20px;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px 100px;
+    background: black;
+    color: white;
+    border-radius: 20px;
+}
+
+#f-btn {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    border-radius: 50px;
+}
+
+#gs {
+    border-radius: 50px;
+    padding: 5px 20px;
+}
